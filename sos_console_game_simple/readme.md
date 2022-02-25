@@ -1,8 +1,10 @@
-### 3\*3 SIMPLE SOS game
+### 3\*3 SIMPLE SOS GAME
 
-_It is an 3\*3 sos game .There are two user,they will be entered the
-box that you want to enter their character._
-##HOW TO PLAY
+It is an 3\*3 sos game .There are two user,they will be entered the
+box that you want to enter their character
+
+###HOW TO PLAY
+
 **E.g**
 **user 1 name is(entered)=natalia** 
 **user 2 name is(entered)=jack**
