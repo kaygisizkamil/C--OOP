@@ -1,0 +1,15 @@
+C:\Users\kamil\source\repos\sos_console_game_simple\sos_console_game_simple\bin\Debug\net5.0\sos_console_game_simple.exe
+C:\Users\kamil\source\repos\sos_console_game_simple\sos_console_game_simple\bin\Debug\net5.0\sos_console_game_simple.deps.json
+C:\Users\kamil\source\repos\sos_console_game_simple\sos_console_game_simple\bin\Debug\net5.0\sos_console_game_simple.runtimeconfig.json
+C:\Users\kamil\source\repos\sos_console_game_simple\sos_console_game_simple\bin\Debug\net5.0\sos_console_game_simple.runtimeconfig.dev.json
+C:\Users\kamil\source\repos\sos_console_game_simple\sos_console_game_simple\bin\Debug\net5.0\sos_console_game_simple.dll
+C:\Users\kamil\source\repos\sos_console_game_simple\sos_console_game_simple\bin\Debug\net5.0\ref\sos_console_game_simple.dll
+C:\Users\kamil\source\repos\sos_console_game_simple\sos_console_game_simple\bin\Debug\net5.0\sos_console_game_simple.pdb
+C:\Users\kamil\source\repos\sos_console_game_simple\sos_console_game_simple\obj\Debug\net5.0\sos_console_game_simple.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kamil\source\repos\sos_console_game_simple\sos_console_game_simple\obj\Debug\net5.0\sos_console_game_simple.AssemblyInfoInputs.cache
+C:\Users\kamil\source\repos\sos_console_game_simple\sos_console_game_simple\obj\Debug\net5.0\sos_console_game_simple.AssemblyInfo.cs
+C:\Users\kamil\source\repos\sos_console_game_simple\sos_console_game_simple\obj\Debug\net5.0\sos_console_game_simple.csproj.CoreCompileInputs.cache
+C:\Users\kamil\source\repos\sos_console_game_simple\sos_console_game_simple\obj\Debug\net5.0\sos_console_game_simple.dll
+C:\Users\kamil\source\repos\sos_console_game_simple\sos_console_game_simple\obj\Debug\net5.0\ref\sos_console_game_simple.dll
+C:\Users\kamil\source\repos\sos_console_game_simple\sos_console_game_simple\obj\Debug\net5.0\sos_console_game_simple.pdb
+C:\Users\kamil\source\repos\sos_console_game_simple\sos_console_game_simple\obj\Debug\net5.0\sos_console_game_simple.genruntimeconfig.cache
