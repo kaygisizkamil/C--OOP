@@ -1,0 +1,9 @@
+C:\Users\kamil\Desktop\cSharpOdev2\odev2\bin\Debug\odev2.exe.config
+C:\Users\kamil\Desktop\cSharpOdev2\odev2\bin\Debug\odev2.exe
+C:\Users\kamil\Desktop\cSharpOdev2\odev2\bin\Debug\odev2.pdb
+C:\Users\kamil\Desktop\cSharpOdev2\odev2\obj\Debug\odev2.csproj.AssemblyReference.cache
+C:\Users\kamil\Desktop\cSharpOdev2\odev2\obj\Debug\odev2.Properties.Resources.resources
+C:\Users\kamil\Desktop\cSharpOdev2\odev2\obj\Debug\odev2.csproj.GenerateResource.cache
+C:\Users\kamil\Desktop\cSharpOdev2\odev2\obj\Debug\odev2.csproj.CoreCompileInputs.cache
+C:\Users\kamil\Desktop\cSharpOdev2\odev2\obj\Debug\odev2.exe
+C:\Users\kamil\Desktop\cSharpOdev2\odev2\obj\Debug\odev2.pdb
